@@ -1,9 +1,5 @@
-# join-us
-Weitu AI is dedicated to pioneering multimodal interactive technology. Our advanced technology and innovative products can enhance multimodal understanding and generation. 
-
-# Weitu AI
-
-我们是一家位于粤港澳大湾区的人工智能多模态创业公司，在多模态 AI 领域拥有深厚的技术积累与产品创新能力。成立一年左右，公司已完成多笔融资。公司已有全球化 C 端产品，产品增长迅速。团队成员大都毕业于世界知名学府，拥有丰富的全球互联网与科技公司经验。我们欢迎更多优秀的小伙伴加入。在这里，你将与一群志同道合、追求卓越的小伙伴一起，探索 AI 技术和产品的无限可能。
+# Join us
+Weitu AI是一家位于粤港澳大湾区的人工智能多模态创业公司，在多模态 AI 领域拥有深厚的技术积累与产品创新能力。成立一年左右，公司已完成多笔融资。公司已有全球化 C 端产品，产品增长迅速。团队成员大都毕业于世界知名学府，拥有丰富的全球互联网与科技公司经验。我们欢迎更多优秀的小伙伴加入。在这里，你将与一群志同道合、追求卓越的小伙伴一起，探索 AI 技术和产品的无限可能。
 
 ---
 
